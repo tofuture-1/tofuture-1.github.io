@@ -19428,7 +19428,7 @@ p.p.gray {
   filter: brightness(0.8);
 }
 [data-theme='dark'] img {
-  filter: blur(0) brightness(0.8);
+  filter: blur(0) brightness(1);
 }
 [data-theme='dark'] #aside-content .aside-list > .aside-list-item:not(:last-child) {
   border-bottom: 1px dashed rgba(255,255,255,0.1);
